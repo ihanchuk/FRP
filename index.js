@@ -1,8 +1,6 @@
 class Observable {
     observers = [];
-    constructor(){
-
-    }
+    constructor(){}
 
     subscribe(observerFunction) {
         this.observers.push(observerFunction);
