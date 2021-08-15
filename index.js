@@ -12,5 +12,3 @@ class Observable {
         })
     }
 }
-
-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
