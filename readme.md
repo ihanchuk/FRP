@@ -1,1 +1,2 @@
-### My Functional Reactive Proggraming ###
+### My Functional Reactive Programing (FRP) ###
+
