@@ -1,0 +1,1 @@
+export const pipe = (func1, func2) => (streamData) => func2(func1(streamData));
